@@ -1,0 +1,7 @@
+.carousel-container {
+  width: 60%;
+  /* Cambia este valor según el tamaño que desees */
+  margin: 1em auto;
+  /* Centra horizontalmente el carrusel */
+  /* Agrega otros estilos si es necesario, como altura, márgenes, etc. */
+}
